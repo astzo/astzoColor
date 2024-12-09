@@ -61,3 +61,15 @@ This project defines **light** and **dark** themes with a visually appealing col
   --accent: 261 67% 50%;
 }
 ```
+
+### Light Theme
+
+```css
+.dark {
+  --text: 307 43% 96%;
+  --background: 300 47% 3%;
+  --primary: 300 100% 69%;
+  --secondary: 261 100% 53%;
+  --accent: 261 67% 50%;
+}
+```
