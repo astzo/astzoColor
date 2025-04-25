@@ -24,7 +24,7 @@ This project defines **light** and **dark** themes with a visually appealing col
 | Background | ![#070403](https://placehold.co/40x20/070403/070403.png) | `#070403`  |
 | Primary    | ![#b1a8ff](https://placehold.co/40x20/b1a8ff/b1a8ff.png) | `#b1a8ff`  |
 | Secondary  | ![#00fff2](https://placehold.co/40x20/00fff2/00fff2.png) | `#00fff2`  |
-| Accent     | ![#ff8800](https://placehold.co/40x20/ff8800/ff8800.png) | `#ff8800`  |
+| Accent     | ![#E66000](https://placehold.co/40x20/E66000/E66000.png) | `#E66000`  |
 
 
 
@@ -37,14 +37,14 @@ This project defines **light** and **dark** themes with a visually appealing col
     --background: #fcf9f8;
     --primary: #090057;
     --secondary: #00fff2;
-    --accent: #ff8800;
+    --accent: #E66000;
   }
   .dark {
     --text: #f2efee;
     --background: #070403;
     --primary: #b1a8ff;
     --secondary: #00fff2;
-    --accent: #ff8800;
+    --accent: #E66000;
   }
 },
 
@@ -58,14 +58,14 @@ This project defines **light** and **dark** themes with a visually appealing col
     --background: hsl(15, 40%, 98%);
     --primary: hsl(246, 100%, 17%);
     --secondary: hsl(177, 100%, 50%);
-    --accent: hsl(32, 100%, 50%);
+    --accent: 	hsl(25, 100%, 45%);
   }
   .dark {
     --text: hsl(15, 13%, 94%);
     --background: hsl(15, 40%, 2%);
     --primary: hsl(246, 100%, 83%);
     --secondary: hsl(177, 100%, 50%);
-    --accent: hsl(32, 100%, 50%);
+    --accent: 	hsl(25, 100%, 45%);
   }
 }
 
@@ -79,14 +79,14 @@ This project defines **light** and **dark** themes with a visually appealing col
     --background: oklch(98.41% 0.003 39.48);
     --primary: oklch(21.22% 0.139 269.85);
     --secondary: oklch(90.12% 0.157 188.22);
-    --accent: oklch(74.42% 0.181 56.46);
+    --accent: oklch(0.65 0.1852 45.19);
   }
   .dark {
     --text: oklch(95.42% 0.004 39.48);
     --background: oklch(11.23% 0.009 44.41);
     --primary: oklch(77.24% 0.123 287.90);
     --secondary: oklch(90.12% 0.157 188.22);
-    --accent: oklch(74.42% 0.181 56.46);
+    --accent: oklch(0.65 0.1852 45.19);
   }
 }
 
