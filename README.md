@@ -10,21 +10,11 @@ This project defines **light** and **dark** themes with a visually appealing col
 |------------|----------------------------------------------------------|------------|------
 | Text       | ![#110e0d](https://placehold.co/40x20/110e0d/110e0d.png) | `#110e0d`  | 
 | Background | ![#fcf9f8](https://placehold.co/40x20/fcf9f8/fcf9f8.png) | `#fcf9f8`  |
-| Primary    | ![#0B0B45](https://placehold.co/40x20/0B0B45/0B0B45.png) | `#0B0B45`  | Dark Navy Blue
-| Secondary  | ![#00ffff](https://placehold.co/40x20/00ffff/00ffff.png) | `#00ffff`  | Cyan
-| Accent     | ![#FF5C00](https://placehold.co/40x20/FF5C00/FF5C00.png) | `#FF5C00`  | Neon Orange
+| Primary    | ![#8600ff](https://placehold.co/40x20/8600ff/8600ff.png) | `#8600ff`  | Dark Navy Blue
+| Secondary  | ![#00ff86](https://placehold.co/40x20/00ff86/00ff86.png) | `#00ff86`  | Green
+| Accent     | ![#FF8600](https://placehold.co/40x20/FF8600/FF8600.png) | `#FF8600`  | Orange
 
 ---
-
-### 🌙 Dark Theme
-
-| Role       | Color                                                   | HEX Code   |
-|------------|----------------------------------------------------------|------------|
-| Text       | ![#f2efee](https://placehold.co/40x20/f2efee/f2efee.png) | `#f2efee`  |
-| Background | ![#070403](https://placehold.co/40x20/070403/070403.png) | `#070403`  |
-| Primary    | ![#b1a8ff](https://placehold.co/40x20/b1a8ff/b1a8ff.png) | `#b1a8ff`  |
-| Secondary  | ![#00ffff](https://placehold.co/40x20/00ffff/00ffff.png) | `#00ffff`  |
-| Accent     | ![#FF5C00](https://placehold.co/40x20/FF5C00/FF5C00.png) | `#FF5C00`  |
 
 
 
@@ -35,16 +25,9 @@ This project defines **light** and **dark** themes with a visually appealing col
   :root {
     --text: #110e0d;
     --background: #fcf9f8;
-    --primary: #0B0B45;
-    --secondary: #00ffff;
-    --accent: #FF5C00;
-  }
-  .dark {
-    --text: #f2efee;
-    --background: #070403;
-    --primary: #b1a8ff;
-    --secondary: #00ffff;
-    --accent: #FF5C00;
+    --primary: #8600ff;
+    --secondary: #00ff86;
+    --accent: #FF8600;
   }
 },
 
