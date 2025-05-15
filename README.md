@@ -8,11 +8,11 @@ This project defines **light** and **dark** themes with a visually appealing col
 
 | Role       | Color                                                    | HEX Code   | Name 
 |------------|----------------------------------------------------------|------------|------
-| Text       | ![#110e0d](https://placehold.co/40x20/110e0d/110e0d.png) | `#110e0d`  | 
-| Background | ![#090057](https://placehold.co/40x20/090057/090057.png) | `#090057`  | Dark Navy Blue
-| Primary    | ![#8600ff](https://placehold.co/40x20/8600ff/8600ff.png) | `#8600ff`  | Navy Blue
-| Secondary  | ![#00ff86](https://placehold.co/40x20/00ff86/00ff86.png) | `#00ff86`  | Green
-| Accent     | ![#FF8600](https://placehold.co/40x20/FF8600/FF8600.png) | `#FF8600`  | Orange
+| Text       | ![#040316](https://placehold.co/40x20/040316/040316.png) | `#040316`  | Rich Black
+| Background | ![#f0f0ff](https://placehold.co/40x20/f0f0ff/f0f0ff.png) | `#f0f0ff`  | Alice Blue
+| Primary    | ![#000080](https://placehold.co/40x20/000080/000080.png) | `#000080`  | Navy Blue
+| Secondary  | ![#00ff88](https://placehold.co/40x20/00ff88/00ff88.png) | `#00ff88`  | Green
+| Accent     | ![#ff8800](https://placehold.co/40x20/ff8800/ff8800.png) | `#ff8800`  | Orange
 
 ---
 
@@ -23,11 +23,11 @@ This project defines **light** and **dark** themes with a visually appealing col
 ```css
 @layer base {
   :root {
-    --text: #110e0d;
-    --background: #090057;
-    --primary: #8600ff;
-    --secondary: #00ff86;
-    --accent: #FF8600;
+    --text: #040316;
+    --background: #f0f0ff;
+    --primary: #000080;
+    --secondary: #00ff88;
+    --accent: #ff8800;
   }
 },
 
