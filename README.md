@@ -10,7 +10,7 @@ This project defines **light** and **dark** themes with a visually appealing col
 |------------|----------------------------------------------------------|------------|------
 | Text       | ![#110e0d](https://placehold.co/40x20/110e0d/110e0d.png) | `#110e0d`  | 
 | Background | ![#090057](https://placehold.co/40x20/090057/090057.png) | `#090057`  | Dark Navy Blue
-| Primary    | ![#0a0944](https://placehold.co/40x20/0a0944/0a0944.png) | `#0a0944`  | Navy Blue
+| Primary    | ![#8600ff](https://placehold.co/40x20/8600ff/8600ff.png) | `#8600ff`  | Navy Blue
 | Secondary  | ![#00ff86](https://placehold.co/40x20/00ff86/00ff86.png) | `#00ff86`  | Green
 | Accent     | ![#FF8600](https://placehold.co/40x20/FF8600/FF8600.png) | `#FF8600`  | Orange
 
@@ -25,7 +25,7 @@ This project defines **light** and **dark** themes with a visually appealing col
   :root {
     --text: #110e0d;
     --background: #090057;
-    --primary: #0a0944;
+    --primary: #8600ff;
     --secondary: #00ff86;
     --accent: #FF8600;
   }
