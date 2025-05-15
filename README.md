@@ -9,8 +9,8 @@ This project defines **light** and **dark** themes with a visually appealing col
 | Role       | Color                                                    | HEX Code   | Name 
 |------------|----------------------------------------------------------|------------|------
 | Text       | ![#110e0d](https://placehold.co/40x20/110e0d/110e0d.png) | `#110e0d`  | 
-| Background | ![#fcf9f8](https://placehold.co/40x20/fcf9f8/fcf9f8.png) | `#fcf9f8`  |
-| Primary    | ![#8600ff](https://placehold.co/40x20/8600ff/8600ff.png) | `#8600ff`  | Dark Navy Blue
+| Background | ![#090057](https://placehold.co/40x20/090057/090057.png) | `#090057`  | Dark Navy Blue
+| Primary    | ![#0a0944](https://placehold.co/40x20/0a0944/0a0944.png) | `#0a0944`  | Navy Blue
 | Secondary  | ![#00ff86](https://placehold.co/40x20/00ff86/00ff86.png) | `#00ff86`  | Green
 | Accent     | ![#FF8600](https://placehold.co/40x20/FF8600/FF8600.png) | `#FF8600`  | Orange
 
@@ -24,8 +24,8 @@ This project defines **light** and **dark** themes with a visually appealing col
 @layer base {
   :root {
     --text: #110e0d;
-    --background: #fcf9f8;
-    --primary: #8600ff;
+    --background: #090057;
+    --primary: #0a0944;
     --secondary: #00ff86;
     --accent: #FF8600;
   }
